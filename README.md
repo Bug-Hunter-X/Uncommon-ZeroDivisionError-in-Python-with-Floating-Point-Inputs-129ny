@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon cause of a ZeroDivisionError in Python. The bug arises when dividing by floating-point zero (0.0) or floating-point infinity (float('inf')). The provided solution addresses this by explicitly handling these specific inputs within the exception handling mechanism.
